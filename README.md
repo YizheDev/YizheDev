@@ -1,8 +1,3 @@
-<!-- 动态星际粒子背景 -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YizheDev" alt="访问统计" style="margin-bottom:20px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=28&duration=4000&pause=1000&color=00FFD1&background=0A1F3D00&vCenter=true&width=800&lines=🚀+Full-Stack+Architect;🔭+AI+%26+Cloud+Native+Developer;🎯+Open+Source+Contributor;🔥+Tech+Evangelist" alt="动态标题" />
-</div>
 
 <!-- 全息数据仪表盘 -->
 <div align="center" style="position:relative;">
